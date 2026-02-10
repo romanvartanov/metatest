@@ -153,3 +153,22 @@ button {
   top: 50%;
   transform: translateY(-50%);
 }
+
+.legend-static {
+  margin-top: 40px;
+  max-width: 700px;
+  line-height: 1.5;
+}
+
+.legend-static h2 {
+  margin-bottom: 16px;
+}
+
+.legend-static h3 {
+  margin-top: 24px;
+  margin-bottom: 8px;
+}
+
+.legend-static p {
+  margin-bottom: 10px;
+}
